@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnEdgyVeggie
-- 👀 I’m interested in mainly OOP and game design, but enjoy all areas
+- 👀 I’m interested in Webapp development,  OOP and game design, but enjoy all areas and learning new concepts
 - 🌱 I’m currently learning full stack web development, and Unity game design
 - 💞️ I’m looking to collaborate on Unity game design
 - 📫 Reach me on discord at AnEdgyVeggie#2224
