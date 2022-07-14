@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AnEdgyVeggie
-- 👀 I’m interested in Webapp development,  OOP and game design, but enjoy all areas and learning new concepts
-- 🌱 I’m currently learning full stack web development, and Unity game design
-- 💞️ I’m looking to collaborate on Unity game design
-- 📫 Reach me on discord at AnEdgyVeggie#2224
+Hey. My name is Ethan Sylvester.
+I am a software engineer who enjoys working on a great many different types of projects.
+Most of my experience is in game development / C# / Unity, or HTML/CSS, JavaScript / React / NPM.
+Currently learning Typescript and Python
 
-<!---
-AnEdgyVeggie/AnEdgyVeggie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My most interesting projects are BoxShooter, Robofriends and SmartBrain
+
+I am always looking for new challenges and people to build projects with.
+You can reach me at: 
+Email: Chococowcake@gmail.com
+Twitter: @AnEdgyVeggy
+Discord: AnEdgyVeggie#2224
