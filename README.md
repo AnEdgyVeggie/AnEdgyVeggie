@@ -9,4 +9,4 @@ I am always looking for new challenges and people to build projects with.
 You can reach me at: 
 Email: Chococowcake@gmail.com
 Twitter: @AnEdgyVeggy
-Discord: AnEdgyVeggie#2224
+Discord: AnEdgyVeggie
