@@ -10,3 +10,6 @@ You can reach me at:
 Email: Chococowcake@gmail.com
 Twitter: @AnEdgyVeggy
 Discord: AnEdgyVeggie
+
+
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anedgyveggie)](https://github.com/anedgyveggie/github-readme-stats)
